@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pink_Hut_Cafe", "Pink_Hut_Cafe.vbproj", "{240930D3-4746-41D1-8B3C-0B6AA42B3128}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{967CCEAB-CC7A-4D78-919B-FEA0456074EF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240930D3-4746-41D1-8B3C-0B6AA42B3128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240930D3-4746-41D1-8B3C-0B6AA42B3128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240930D3-4746-41D1-8B3C-0B6AA42B3128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240930D3-4746-41D1-8B3C-0B6AA42B3128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97D6BB2D-A422-4FFD-A8A3-6FE96087557E}
+	EndGlobalSection
+EndGlobal
